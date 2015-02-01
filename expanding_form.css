@@ -1,0 +1,9 @@
+.caret-up {
+  border-bottom: 4px solid #000000;
+  border-left: 4px solid transparent;
+  border-top: 0;
+  border-right: 4px solid transparent;
+}
+.panel-hover {
+	background-color: #ddd;
+}
